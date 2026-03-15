@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Data files (host these on Hugging Face instead)
+backend/data/
+*.index
+metadata.json
+
+# Intermediate pipeline files (not needed for deployment)
+backend/data/cleaned/
+backend/data/pdfs/
+backend/data/text/
+backend/data/chunks/
+
+# Node / Next.js
+node_modules/
+.next/
+frontend/.env.local
+frontend/.env
+
+# Misc
+.DS_Store
+*.log
+
+op
+

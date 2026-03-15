@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pdfplumber
+pytesseract
+pillow
+sentence-transformers
+faiss-cpu
+numpy
+tqdm
+python-multipart
+pdfplumber
